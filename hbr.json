@@ -280,7 +280,7 @@
         "displayName": "逢川めぐみ",
         "displayNameCn": "逢川惠 原皮",
         "unit": "31a",
-        "directory": "chars/hbr26v5_MAikawaDefault",
+        "directory": "chars/hbr26_MAikawaDefault",
         "image": "Covers/hbr26_MAikawaDefault.png",
         "base": "https://carlutic.github.io/hbr/",
         "pmx": "model.pmx"
